@@ -6,11 +6,11 @@ Hello! I'm **Tanu Kaushik**, an enthusiastic developer with experience in **Java
 
 ## 🔧 Skills & Tools
 
-- *Languages:* Java, Kotlin, C (Basics), XML, HTML, JavaScript
-- *Embedded Concepts:* Microcontroller Basics, GPIO, Real-Time Systems
-- *Frameworks & Tools:* Android SDK, STM32CubeIDE (familiar), Arduino IDE, VS Code, Android Studio
-- *Protocols & APIs:* REST APIs, HTTP, (Learning) UART, SPI, I2C
-- *Platforms:* Android, Raspberry Pi (basic), Arduino Uno
+- **Languages:** Java, Kotlin, C (Basics), XML, HTML, JavaScript
+- **Embedded Concepts:** Microcontroller Basics, GPIO, Real-Time Systems
+- **Frameworks & Tools:** Android SDK, STM32CubeIDE (familiar), Arduino IDE, VS Code, Android Studio
+- **Protocols & APIs:** REST APIs, HTTP, (Learning) UART, SPI, I2C
+- **Platforms:** Android, Raspberry Pi (basic), Arduino Uno
 
 ---
 
