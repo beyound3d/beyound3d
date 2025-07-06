@@ -49,4 +49,4 @@ Hello! I'm **Tanu Kaushik**, an enthusiastic developer with experience in **Java
 
 ---
 
-> “I believe software should not only work well — it should interact beautifully with the real world.”
+> “I believe software should not only work well — **it should interact beautifully with the real world**.”
