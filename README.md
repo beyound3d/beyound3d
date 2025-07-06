@@ -1,6 +1,6 @@
 # Tanu Kaushik – Embedded Systems & Android Developer
 
-Hello! I'm **Tanu Kaushik**, an enthusiastic developer with experience in **Java**, Android SDK, and system-level programming, now transitioning into the world of **Embedded Systems Software**. I love building solutions that bridge the gap between hardware and software, especially in real-time and safety-critical environments like Metro alert systems.**IQ: somewhere between my baud rate and my RAM size 🧠⚡🐱‍💻**
+Hello! I'm **Tanu Kaushik**, an enthusiastic developer with experience in **Java**, Android SDK, and system-level programming, now transitioning into the world of **Embedded Systems Software**. I love building solutions that bridge the gap between hardware and software, especially in real-time and safety-critical environments like Metro alert systems.      **IQ: somewhere between my baud rate and my RAM size 🧠⚡🐱‍💻**
 
 ---
 
