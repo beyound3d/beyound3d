@@ -43,9 +43,9 @@ Hello! I'm *Tanu Kaushik, an enthusiastic developer with experience in **Java, A
 
 ## 📫 Let's Connect
 
-- 📧 Email: your.email@example.com  
-- 🌐 GitHub: [github.com/yourusername](https://github.com/yourusername)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 Email: developertanukaushik@example.com  
+- 🌐 GitHub: [github.com/beyound3d](https://github.com/beyound3d)  
+- 💼 LinkedIn: [linkedin.com/in/tanukaushk](https://www.linkedin.com/in/tanukaushk/)
 
 ---
 
