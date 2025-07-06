@@ -51,3 +51,5 @@ Hello! I'm **Tanu Kaushik**, an enthusiastic developer with experience in **Java
 ---
 
 > “I believe software should not only work well — **it should interact beautifully with the real world**.”
+> 🛠️ Fun Fact - **My version of a "hello world" blinks an LED and logs it with a timestamp.
+Because visibility is everything — especially in real time.**
